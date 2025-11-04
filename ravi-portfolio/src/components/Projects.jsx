@@ -10,10 +10,10 @@ const projectData = [
   },
   {
     img: "https://plus.unsplash.com/premium_photo-1683977922495-3ab3ce7ba4e6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c29jaWFsJTIwbWVkaWElMjBBcHB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
-    title: "Social Media App",
+    title: "SMAPP",
     desc: "Built using the MERN stack (MongoDB, Express.js, React, Node.js) with Socket.io for real-time messaging, Cloudinary for media storage, and JWT for secure authentication.",
     tags: ["React", "MongoDB", "Express.js", "Socket.io", "Cloudinary", "JWT"],
-    link: "https://github.com/leonrock128/Social_Media_FullStack",
+    link: "https://social-app-three-chi.vercel.app/",
   },
   {
     img: "https://cdn.prioxis.com/website/Images/OpenCV01.webp",
@@ -42,6 +42,20 @@ const projectData = [
     desc: "A hybrid DenseNet-CNN model for accurately classifying lumbar spine images as degenerative or normal.",
     tags: ["Python", "TensorFlow", "Keras","CNN", "DenseNet","Matplotlib"],
     link: "https://github.com/leonrock128/Lumbar_Spine",
+  },
+  {
+    img: "https://plus.unsplash.com/premium_photo-1677094310919-d0361465d3be?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hhdGJvdHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    title: "ChatApp – AI Chat Assistant",
+    desc: "A simple full-stack AI chatbot project built using FastAPI (Python) for the backend and React (Vite) for the frontend.It uses the Groq Llama-3.1-8B-Instant model to generate intelligent chat responses.",
+    tags: ["Python", "FastAPI", "React", "Groq Llama","TailwindCSS"],
+    link: "https://chatapp-frontend-lovat-delta.vercel.app/",
+  },
+  {
+    img: "https://images.unsplash.com/photo-1642292133339-8cd9b560387a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1169",
+    title: "SlotSwapper — Event Swap Web App",
+    desc: "SlotSwapper is a full-stack web application that allows users to create, view, and swap event slots with others. It includes secure authentication, an interactive marketplace, and responsive UI.",
+    tags: ["React", "Tailwind CSS", "Node.js","MongoDB", "Lucide React","JWT"],
+    link: "https://slot-swapper-frontend-two.vercel.app/",
   },
 ];
 

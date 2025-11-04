@@ -26,6 +26,11 @@ const Certifications = () => {
                         <h3> Selenium WebDriver</h3>
                         <p>Infosys Springboard</p>
                     </a>
+                    <a href="https://drive.google.com/file/d/1Jhkcj8GdFvCIkDOSDLZsvMXTDULvrt7V/view?usp=sharing" target='_blank' className="cert-card reveal">
+                        <div className="cert-icon"><i className="fa-solid fa-laptop-code"></i></div>
+                        <h3>Oracle Generative AI Professional</h3>
+                        <p>Oracle University</p>
+                    </a>
                 </div>
             </div>
         </section>
